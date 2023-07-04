@@ -229,7 +229,7 @@ function App() {
                 }
               />
               <Route path="/search" element={<SearchScreen />} />
-              {/* Admin Routes */}
+             
               <Route
                 path="/admin/dashboard"
                 element={
